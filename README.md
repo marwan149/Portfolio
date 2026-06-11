@@ -1,4 +1,4 @@
-# Marwan Ashref Farag · Champion Portfolio
+# Marwan Ashref Farag · Portfolio
 
 > *"The code is never perfect; the champion is always in training."*
 
